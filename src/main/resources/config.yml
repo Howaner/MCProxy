@@ -1,0 +1,6 @@
+binding:
+  ip: localhost
+  port: 25565
+servers:
+  localhost: "mc.timolia.de"
+  default: "mc.rewinside.tv:25565"
